@@ -1,2 +1,2 @@
 # hello-world
-Sand Box
+練習用リポジトリ
